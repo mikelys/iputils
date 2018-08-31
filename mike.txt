@@ -1,1 +1,1 @@
-mike wants to do something with c for ping command
+1. Mike would like to do something with C for ping command.
